@@ -1,0 +1,11 @@
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.csprojAssemblyReference.cache
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.AssemblyInfo.cs
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.deps.json
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.runtimeconfig.json
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.runtimeconfig.dev.json
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.dll
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/bin/Debug/netcoreapp2.1/WizardNinjaSamurai.pdb
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.dll
+/Users/aimeecasden/Desktop/cs/OOP/Wizard/WizardNinjaSamurai/obj/Debug/netcoreapp2.1/WizardNinjaSamurai.pdb
